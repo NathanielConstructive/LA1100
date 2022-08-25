@@ -31,9 +31,9 @@
 |      |                 |      |
 |muss  |                 | AF   | Als Spieler möchte ich dass mir gesagt wird ob|
 |                                 ich richtig liege.  |
-|kann  |                 |QAF   |Als Spieler möchte ich dass mit gesagt wird viele Versuche ich |                               |brauchte                 
+|kann  |                 |QAF   |Als Spieler möchte ich dass mir gesagt wird viele Versuche ich brauchte|                 
 |
-|kann  |                 |KAF   | Als Spieler möchte ich dass die falsch eingegebenen Zahlen|   |                               |vermieden werden, damit die Website richtig funktioniert|
+|kann  |                 |KAF   | Als Spieler möchte ich dass die falsch eingegebenen Zahlen vermieden werden, damit die Website richtig funktioniert|
 |kann |                  |QAF   |Als Spieler möchte ich neue Features damit das Programm|
 |                               |spass macht.                                           |
 
@@ -65,8 +65,30 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       | ich       |              |   45 Minuten  |
+| 2.   |       | ich       |              |   45 Minuten  |
+| 3    |       | ich       |              |   45 Minuten
+| 4    |       | ich       |              |   45 Minuten
+| 5    |       | ich       |              |   45 Minuten
+| 6    |       | ich       |              |   45 Minuten
+| 7    |       | ich       |              |   45 Minuten
+| 8    |       |
+| 9
+| 10
+| 11
+| 12
+
+
+
+
+
+
+
+
+
+
+
+
 
 Total: 
 
