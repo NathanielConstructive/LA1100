@@ -49,13 +49,8 @@
 | 1.3  | Geprüft      | enter   |  falsch mehr      |
 | 1.4  | eingabe Zahl | 20      |  falsch mehr      |
 | 1.5  | geprüft      | enter   |  falsch mehr      |
-| 1.6  |              |         |                   |
-| 1.7  |              |         |                   |
-| 1.8  |              |         |                   |
-| 1.9  |              |         |                   |
-| 1.10 |              |         |                   |
-| 1.11 |              |         |                   |
-|
+| 1.6  | eingabe Zahl | 30      |  flasch weniger   |
+| 1.7  | eingabe Zahl |  27     | Richtig           |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
