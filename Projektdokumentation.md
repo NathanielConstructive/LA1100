@@ -65,30 +65,18 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | ich       |              |   45 Minuten  |
-| 2.   |       | ich       |              |   45 Minuten  |
-| 3    |       | ich       |              |   45 Minuten  |
-| 4    |       | ich       |              |   45 Minuten  |
-| 5    |       | ich       |              |   45 Minuten  |
-| 6    |       | ich       |              |   45 Minuten  |
-| 7    |       | ich       |              |   45 Minuten  |
-| 8    |       | ich       |              |   45 Minuten  |
-| 9    |       | ich       |              |   45 Minuten  |
-| 10   |       | ich       |              |   45 Minuten  |
-| 11   |       | ich       |              |   45 Minuten  |
-| 12   |       | ich       |              |   45 Minuten  |
-
-
-
-
-
-
-
-
-
-
-
-
+| 1.A  | 1.9   | ich       | Computer generiert        |   45 Minuten  |
+| 2.   | 1.9   | ich       |  Computer bestimmt eine Zahl  |   45 Minuten  |
+| 3    | 1.9   | ich       | Eine Eingabe             |   45 Minuten  |
+| 4    | 1.9   | ich       | Möglichkeit raten             |   45 Minuten  |
+| 5    | 1.9   | ich       |  angezeigt ob zuwenig             |   45 Minuten  |
+| 6    | 1.9   | ich       |  angezeigt ob zuviel           |   45 Minuten  |
+| 7    | 1.9   | ich       | angezeigt gewonnen             |   45 Minuten  |
+| 8    | 1.9   | ich       | wieviele versuche             |   45 Minuten  |
+| 9    | 1.9   | ich       |  eingaben die nicht mö. sind vermeiden            |   45 Minuten  |
+| 10   | 1.9   | ich       |   nochmals wie mei der 9 (verbesserung)           |   45 Minuten  |
+| 11   | 1.9   | ich       |   alles anschauen           |   45 Minuten  |
+| 12   | 1.9   | ich       |   45 minuten falls zuwenig zeit           |   45 Minuten  |
 
 Total: 
 
@@ -98,7 +86,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich entschieden, dass ich zum Beispiel einen farbigen Enterbutton einfüge, damit die Seite anschaulicher wirkt. Ich möchte auch dass ein Text entsteht falls jemand etwas anderes als eine Zahl zwischen 1-100 eingibt. Das wichtigste ist, dass der Computer eine richtige Zahl wählt und falls man richtig ist ein Gratulationstext entseht, sodass man sieht dass man gewonnen hat.
 
 ## 4 Realisieren
 
