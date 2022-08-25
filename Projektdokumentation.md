@@ -67,16 +67,16 @@
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       | ich       |              |   45 Minuten  |
 | 2.   |       | ich       |              |   45 Minuten  |
-| 3    |       | ich       |              |   45 Minuten
-| 4    |       | ich       |              |   45 Minuten
+| 3    |       | ich       |              |   45 Minuten  |
+| 4    |       | ich       |              |   45 Minuten  |
 | 5    |       | ich       |              |   45 Minuten  |
 | 6    |       | ich       |              |   45 Minuten  |
 | 7    |       | ich       |              |   45 Minuten  |
-| 8    |       | ich       |              |               |
-| 9    |       |           |              |
-| 10   |       |           |              |
-| 11   |       |           |              |
-| 12   |       |           |              |
+| 8    |       | ich       |              |   45 Minuten  |
+| 9    |       | ich       |              |   45 Minuten  |
+| 10   |       | ich       |              |   45 Minuten  |
+| 11   |       | ich       |              |   45 Minuten  |
+| 12   |       | ich       |              |   45 Minuten  |
 
 
 
