@@ -21,21 +21,21 @@
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-| muss |                 | AF   |Als spieler möchte ich dass der Computer eine|
+|      |                 |      |                                    |
+| 2    |  muss           | AF   |Als spieler möchte ich dass der Computer eine|
 |      |                 |      |   Zahl zwischen 1 und 100 speichert  |
-| muss |                 |AF    |Als Spieler möchte ich dass ich raten kann|
+|3     |  muss           | AF   |Als Spieler möchte ich dass ich raten kann|
 |      |                 |      |
-|kann  |                 |QAF   |Als Spieler möchte ich dass mir gezeigt wird ob|
+| 4    |   kann          | QAF  |Als Spieler möchte ich dass mir gezeigt wird ob|
 |      |                 |      |   ich zu viel oder zuwenig geraten habe.|
 |      |                 |      |
-|muss  |                 | AF   | Als Spieler möchte ich dass mir gesagt wird ob|
-|                                 ich richtig liege.  |
-|kann  |                 |QAF   |Als Spieler möchte ich dass mir gesagt wird viele Versuche ich brauchte|                 
-|
-|kann  |                 |KAF   | Als Spieler möchte ich dass die falsch eingegebenen Zahlen vermieden werden, damit die Website richtig funktioniert|
-|kann |                  |QAF   |Als Spieler möchte ich neue Features damit das Programm|
-|                               |spass macht.                                           |
+|  5   | muss            | AF   | Als Spieler möchte ich dass mir gesagt wird ob|
+|      |                 |      |  ich richtig liege.  |
+|  6   |     kann        | QAF  |Als Spieler möchte ich dass mir gesagt wird viele Versuche ich brauchte|                 
+|      |                 |      |
+|  7   |      kann       | KAF  | Als Spieler möchte ich dass die falsch eingegebenen Zahlen vermieden werden, damit die Website richtig funktioniert|
+|  8   |     kann        | QAF  |Als Spieler möchte ich neue Features damit das Programm|
+|      |                 |      |spass macht.                                           |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -44,25 +44,18 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  projekt gestartet |         |                   |
-| 1.2  |              |         |                   |
-| 1.3  |              |         |                   |
-| 1.4  |              |         |                   |
-| 1.5  |              |         |                   |
+| 1.1  |  projekt gestartet | Play| Erscheinung des Programms|
+| 1.2  | eingabe Zahl |  3      |  falsch mehr      |
+| 1.3  | Geprüft      | enter   |  falsch mehr      |
+| 1.4  | eingabe Zahl | 20      |  falsch mehr      |
+| 1.5  | geprüft      | enter   |  falsch mehr      |
 | 1.6  |              |         |                   |
 | 1.7  |              |         |                   |
 | 1.8  |              |         |                   |
 | 1.9  |              |         |                   |
 | 1.10 |              |         |                   |
 | 1.11 |              |         |                   |
-
-
-
-
-
-
-
-
+|
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
