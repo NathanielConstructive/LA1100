@@ -22,20 +22,20 @@
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 | ...  |                 |      |                                    |
-| muss |                 | AF   |Als spieler möchte ich dass der Computer eine
-|      |                          Zahl zwischen 1 und 100 speichert  |
+| muss |                 | AF   |Als spieler möchte ich dass der Computer eine|
+|      |                 |      |   Zahl zwischen 1 und 100 speichert  |
 | muss |                 |AF    |Als Spieler möchte ich dass ich raten kann|
-|      |
-|kann  |                 |QAF   |Als Spieler möchte ich dass mir gezeigt wird ob
-|                                 ich zu viel oder zuwenig geraten habe.|
+|      |                 |      |
+|kann  |                 |QAF   |Als Spieler möchte ich dass mir gezeigt wird ob|
+|      |                 |      |   ich zu viel oder zuwenig geraten habe.|
+|      |                 |      |
+|muss  |                 | AF   | Als Spieler möchte ich dass mir gesagt wird ob|
+|                                 ich richtig liege.  |
+|kann  |                 |QAF   |Als Spieler möchte ich dass mit gesagt wird viele Versuche ich |                               |brauchte                 
 |
-|muss  |                 | AF   | Als Spieler möchte ich dass mir gesagt wird ob
-|                                 ich richtig liege.
+|kann  |                 |KAF
 |
 |
-
-
-
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
