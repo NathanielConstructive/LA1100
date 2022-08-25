@@ -69,14 +69,14 @@
 | 2.   |       | ich       |              |   45 Minuten  |
 | 3    |       | ich       |              |   45 Minuten
 | 4    |       | ich       |              |   45 Minuten
-| 5    |       | ich       |              |   45 Minuten
-| 6    |       | ich       |              |   45 Minuten
-| 7    |       | ich       |              |   45 Minuten
-| 8    |       |
-| 9
-| 10
-| 11
-| 12
+| 5    |       | ich       |              |   45 Minuten  |
+| 6    |       | ich       |              |   45 Minuten  |
+| 7    |       | ich       |              |   45 Minuten  |
+| 8    |       | ich       |              |               |
+| 9    |       |           |              |
+| 10   |       |           |              |
+| 11   |       |           |              |
+| 12   |       |           |              |
 
 
 
