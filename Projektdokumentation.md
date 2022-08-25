@@ -33,9 +33,9 @@
 |                                 ich richtig liege.  |
 |kann  |                 |QAF   |Als Spieler möchte ich dass mit gesagt wird viele Versuche ich |                               |brauchte                 
 |
-|kann  |                 |KAF
-|
-|
+|kann  |                 |KAF   | Als Spieler möchte ich dass die falsch eingegebenen Zahlen|   |                               |vermieden werden, damit die Website richtig funktioniert|
+|kann |                  |QAF   |Als Spieler möchte ich neue Features damit das Programm|
+|                               |spass macht.                                           |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
