@@ -100,6 +100,20 @@ Ich habe mich entschieden, dass ich zum Beispiel einen farbigen Enterbutton einf
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
+|      |       |           |               |                   |
+|      |       |           |               |                   |
+|      |       |           |               |                   |
+|      |       |           |               |                   |
+|      |       |           |               |                   |
+|      |       |           |               |                   |
+|      |       |           |               |                   |
+|      |       |           |               |                   |
+
+
+
+
+
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
