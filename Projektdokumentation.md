@@ -50,7 +50,7 @@
 | 1.4  | eingabe Zahl | 20      |  falsch mehr      |
 | 1.5  | geprüft      | enter   |  falsch mehr      |
 | 1.6  | eingabe Zahl | 30      |  flasch weniger   |
-| 1.7  | eingabe Zahl |  27     | Richtig           |
+| 1.7  | eingabe Zahl |  27     |  Richtig          |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -71,18 +71,18 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 1.9   | ich       | Computer generiert        |   45 Minuten  |
-| 2.   | 1.9   | ich       |  Computer bestimmt eine Zahl  |   45 Minuten  |
-| 3    | 1.9   | ich       | Eine Eingabe             |   45 Minuten  |
-| 4    | 1.9   | ich       | Möglichkeit raten             |   45 Minuten  |
-| 5    | 1.9   | ich       |  angezeigt ob zuwenig             |   45 Minuten  |
-| 6    | 1.9   | ich       |  angezeigt ob zuviel           |   45 Minuten  |
-| 7    | 1.9   | ich       | angezeigt gewonnen             |   45 Minuten  |
-| 8    | 1.9   | ich       | wieviele versuche             |   45 Minuten  |
-| 9    | 1.9   | ich       |  eingaben die nicht mö. sind vermeiden            |   45 Minuten  |
-| 10   | 1.9   | ich       |   nochmals wie mei der 9 (verbesserung)           |   45 Minuten  |
-| 11   | 1.9   | ich       |   alles anschauen           |   45 Minuten  |
-| 12   | 1.9   | ich       |   45 minuten falls zuwenig zeit           |   45 Minuten  |
+| 1.A  | 1.9   | ich       | Computer generiert                       |   45 Minuten  |
+| 2.   | 1.9   | ich       |  Computer bestimmt eine Zahl             |   45 Minuten  |
+| 3    | 1.9   | ich       | Eine Eingabe                             |   45 Minuten  |
+| 4    | 1.9   | ich       | Möglichkeit raten                        |   45 Minuten  |
+| 5    | 1.9   | ich       |  angezeigt ob zuwenig                    |   45 Minuten  |
+| 6    | 1.9   | ich       |  angezeigt ob zuviel                     |   45 Minuten  |
+| 7    | 1.9   | ich       | angezeigt gewonnen                       |   45 Minuten  |
+| 8    | 1.9   | ich       | wieviele versuche                        |   45 Minuten  |
+| 9    | 1.9   | ich       |  eingaben die nicht mö. sind vermeiden   |   45 Minuten  |
+| 10   | 1.9   | ich       |   nochmals wie mei der 9 (verbesserung)  |   45 Minuten  |
+| 11   | 1.9   | ich       |   alles anschauen                        |   45 Minuten  |
+| 12   | 1.9   | ich       |   45 minuten falls zuwenig zeit          |   45 Minuten  |
 
 Total: 
 
@@ -98,12 +98,12 @@ Ich habe mich entschieden, dass ich zum Beispiel einen farbigen Enterbutton einf
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-|      |       |           |               |                   |
-|      |       |           |               |                   |
-|      |       |           |               |                   |
-|      |       |           |               |                   |
+| 1.A  | 1.09  |Fragen n. Zahl          | 35              |    25              |
+| 1.B  |       |           |               |                   |
+| 1.C  |       |           |               |                   |
+| 1.D  |       |           |               |                   |
+| 1.E  |       |           |               |                   |
+| 1.F  |       |           |               |                   |
 |      |       |           |               |                   |
 |      |       |           |               |                   |
 |      |       |           |               |                   |
