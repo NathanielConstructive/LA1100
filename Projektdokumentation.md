@@ -80,9 +80,9 @@
 | 7    | 1.9   | ich       | angezeigt gewonnen                       |   45 Minuten  |
 | 8    | 1.9   | ich       | wieviele versuche                        |   45 Minuten  |
 | 9    | 1.9   | ich       |  eingaben die nicht mö. sind vermeiden   |   45 Minuten  |
-| 10   | 1.9   | ich       |   nochmals wie mei der 9 (verbesserung)  |   45 Minuten  |
+| 10   | 1.9   | ich       |   nochmals wie bei der 9 (verbesserung)  |   45 Minuten  |
 | 11   | 1.9   | ich       |   alles anschauen                        |   45 Minuten  |
-| 12   | 1.9   | ich       |   45 minuten falls zuwenig zeit          |   45 Minuten  |
+| 12   | 1.9   | ich       |   Wenn Zeit, fragen ob noch eine Runde   |   45 Minuten  |
 
 Total: 
 
@@ -98,8 +98,8 @@ Ich habe mich entschieden, dass ich zum Beispiel einen farbigen Enterbutton einf
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 1.09  |Fragen n. Zahl          | 35              |    25              |
-| 1.B  |       |           |               |                   |
+| 1.A  | 1.09  |Zahl generieren          | 40             |    30          |
+| 1.(A)| 1.09  | Nach Zahl fragen  |    40           |      35             |
 | 1.C  |       |           |               |                   |
 | 1.D  |       |           |               |                   |
 | 1.E  |       |           |               |                   |
