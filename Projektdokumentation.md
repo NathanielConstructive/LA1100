@@ -98,14 +98,14 @@ Ich habe mich entschieden, dass ich zum Beispiel einen farbigen Enterbutton einf
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 1.09  |Zahl generieren          | 40             |    30          |
-| 1.(A)| 1.09  | Nach Zahl fragen  |    40           |      35             |
-| 1.C  |       |           |               |                   |
-| 1.D  |       |           |               |                   |
-| 1.E  |       |           |               |                   |
-| 1.F  |       |           |               |                   |
-|      |       |           |               |                   |
-|      |       |           |               |                   |
+| 1.A  | 1.09  |Zahl generieren | 45       |     20            |
+| 1.(A)| 1.09  | Nach Zahl fragen  |    50 |     25            |
+| 1.B  | 1.09  | Widerholen wenn keine richtige Zahl           |   50          |     30            |
+| 1.C  | 1.09  | Wenn zu hoch dies sagen          |  15        | 10                  |
+| 1.D  | 1.09  |  Wenn zu niedrig dies sagen      |  10        | 5                  |
+| 1.E  | 1.09  | Wenn richtig gratulieren         |  10        | 10                  |
+| 1.F  | 1.09  | Wenn fertig die Versüche aufzählen |   20     | 20                 |
+| 1.G  | 1.09  | Fragen ob noch eine Runden     |      35      |  30 (noch nicht fertig)             |
 |      |       |           |               |                   |
 |      |       |           |               |                   |
 
