@@ -23,15 +23,15 @@
 | 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 |      |                 |      |                                    |
 | 2    |  muss           | AF   |Als spieler möchte ich dass der Computer eine|
-|      |                 |      |   Zahl zwischen 1 und 100 speichert  |
-|3     |  muss           | AF   |Als Spieler möchte ich dass ich raten kann|
+|      |                 |      |   Zahl zwischen 1 und 100 speichert, damit Ich raten kann.  |
+|3     |  muss           | AF   |Als Spieler möchte ich dass ich raten kann, damit ich überhaupt spielen kann.|
 |      |                 |      |
 | 4    |   kann          | QAF  |Als Spieler möchte ich dass mir gezeigt wird ob|
-|      |                 |      |   ich zu viel oder zuwenig geraten habe.|
+|      |                 |      |   ich zu viel oder zuwenig geraten habe, um zu wissen in welche Richtung ich raten soll.|
 |      |                 |      |
 |  5   | muss            | AF   | Als Spieler möchte ich dass mir gesagt wird ob|
-|      |                 |      |  ich richtig liege.  |
-|  6   |     kann        | QAF  |Als Spieler möchte ich dass mir gesagt wird viele Versuche ich brauchte|                 
+|      |                 |      |  ich richtig liege, damit ich sicher bin dass ich fertig bin.  |
+|  6   |     kann        | QAF  |Als Spieler möchte ich dass mir gesagt wird viele Versuche ich brauchte, um mein Glück zu kennen|                 
 |      |                 |      |
 |  7   |      kann       | KAF  | Als Spieler möchte ich dass die falsch eingegebenen Zahlen vermieden werden, damit die Website richtig funktioniert|
 |  8   |     kann        | QAF  |Als Spieler möchte ich neue Features damit das Programm|
@@ -107,7 +107,7 @@ Ich habe mich entschieden, dass ich zum Beispiel einen farbigen Enterbutton einf
 | 1.F  | 1.09  | Wenn fertig die Versüche aufzählen |   20     | 20                 |
 | 1.G  | 1.09  | Fragen ob noch eine Runden     |      35      |  20           |
 | 1.H  | 8.09  |Neustart   |  50           |  50               |
-| 1.I  | 8.09  | Namen Fragen  | 60        |  30 (noch nicht fertig  |
+| 1.I  | 8.09  | Namen Fragen  | 60        |  35               |
 
 
 
