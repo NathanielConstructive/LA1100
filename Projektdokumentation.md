@@ -46,11 +46,11 @@
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |  projekt gestartet | Play| Erscheinung des Programms|
 | 1.2  | eingabe Zahl |  3      |  falsch mehr      |
-| 1.3  | Geprüft      | enter   |  falsch mehr      |
-| 1.4  | eingabe Zahl | 20      |  falsch mehr      |
-| 1.5  | geprüft      | enter   |  falsch mehr      |
-| 1.6  | eingabe Zahl | 30      |  flasch weniger   |
-| 1.7  | eingabe Zahl |  27     |  Richtig          |
+| 1.3  | eingabe höhrere Zahl| 50 |  falsch weniger     |
+| 1.4  | eingabe kleinere Zahl | 43      |  Richtig     |
+| 1.5  | Programm fast zuende      | enter   |  Sie haben ... Versuche gebraucht     |
+| 1.6  |              |        |                    |
+| 1.7  |              |        |                    |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
