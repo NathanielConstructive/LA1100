@@ -105,9 +105,9 @@ Ich habe mich entschieden, dass ich zum Beispiel einen farbigen Enterbutton einf
 | 1.D  | 1.09  |  Wenn zu niedrig dies sagen      |  10        | 5                  |
 | 1.E  | 1.09  | Wenn richtig gratulieren         |  10        | 10                  |
 | 1.F  | 1.09  | Wenn fertig die Versüche aufzählen |   20     | 20                 |
-| 1.G  | 1.09  | Fragen ob noch eine Runden     |      35      |  30 (noch nicht fertig)             |
-|      |       |           |               |                   |
-|      |       |           |               |                   |
+| 1.G  | 1.09  | Fragen ob noch eine Runden     |      35      |  20           |
+| 1.H  | 8.09  |Neustart   |  50           |  50               |
+| 1.I  | 8.09  | Namen Fragen  | 60        |  30 (noch nicht fertig  |
 
 
 
