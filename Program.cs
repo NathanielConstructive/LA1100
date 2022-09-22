@@ -1,14 +1,21 @@
-﻿
 
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Diagnostics.Metrics;
 using System.Security.Cryptography.X509Certificates;
 
 
-static int GetPlayerSelection()
 
+
+
+
+static int GetPlayerSelection()
 {
 
-    Console.BackgroundColor = ConsoleColor.Blue;
-    Console.ForegroundColor = ConsoleColor.White;
+
+  
+
+Console.ForegroundColor = ConsoleColor.Blue;
     Console.WriteLine("Geben Sie eine Zahl zwischen 1 und 100 ein: ", ConsoleColor.Blue, "Zahl" );
 
     var input = Console.ReadLine();
@@ -23,8 +30,8 @@ static int GetPlayerSelection()
     return GetPlayerSelection();
 }
 
-Console.BackgroundColor = ConsoleColor.Blue;   
-Console.ForegroundColor = ConsoleColor.White;    
+   
+Console.ForegroundColor = ConsoleColor.Blue;    
 Console.WriteLine("Geben Sie ihren Namen ein");
 
 string Name = Console.ReadLine();
@@ -37,7 +44,7 @@ start:
     var player = GetPlayerSelection();
     var Laptop = new Random().Next(1, 101);
     var counter = 1;
-    var winCounter = 1;
+    
     
 while (player != Laptop)
 {
@@ -57,23 +64,6 @@ while (player != Laptop)
 
 
 Console.WriteLine($"Glückwunsch! {Name} Du hast {counter} Schritte gebraucht!\n\n");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
