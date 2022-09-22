@@ -20,21 +20,21 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 0    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 |      |                 |      |                                    |
-| 2    |  muss           | AF   |Als spieler möchte ich dass der Computer eine|
+| 1    |  muss           | AF   |Als spieler möchte ich dass der Computer eine|
 |      |                 |      |   Zahl zwischen 1 und 100 speichert, damit Ich raten kann.  |
-|3     |  muss           | AF   |Als Spieler möchte ich dass ich raten kann, damit ich überhaupt spielen kann.|
+| 2    |  muss           | AF   |Als Spieler möchte ich dass ich raten kann, damit ich überhaupt spielen kann.|
 |      |                 |      |
-| 4    |   kann          | QAF  |Als Spieler möchte ich dass mir gezeigt wird ob|
+| 3    |   muss          | QAF  |Als Spieler möchte ich dass mir gezeigt wird ob|
 |      |                 |      |   ich zu viel oder zuwenig geraten habe, um zu wissen in welche Richtung ich raten soll.|
 |      |                 |      |
-|  5   | muss            | AF   | Als Spieler möchte ich dass mir gesagt wird ob|
+|  4   | muss            | AF   | Als Spieler möchte ich dass mir gesagt wird ob|
 |      |                 |      |  ich richtig liege, damit ich sicher bin dass ich fertig bin.  |
-|  6   |     kann        | QAF  |Als Spieler möchte ich dass mir gesagt wird viele Versuche ich brauchte, um mein Glück zu kennen|                 
+|  5   |     kann        | QAF  |Als Spieler möchte ich dass mir gesagt wird viele Versuche ich brauchte, um mein Glück zu kennen|                 
 |      |                 |      |
-|  7   |      kann       | KAF  | Als Spieler möchte ich dass die falsch eingegebenen Zahlen vermieden werden, damit die Website richtig funktioniert|
-|  8   |     kann        | QAF  |Als Spieler möchte ich neue Features damit das Programm|
+|  6   |      kann       | KAF  | Als Spieler möchte ich dass die falsch eingegebenen Zahlen vermieden werden, damit die Website richtig funktioniert|
+|  7   |     kann        | QAF  |Als Spieler möchte ich neue Features damit das Programm|
 |      |                 |      |spass macht.                                           |
 
 
@@ -45,12 +45,12 @@
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |  projekt gestartet | Play| Erscheinung des Programms|
-| 1.2  | eingabe Zahl |  3      |  falsch mehr      |
-| 1.3  | eingabe höhrere Zahl| 50 |  falsch weniger     |
-| 1.4  | eingabe kleinere Zahl | 43      |  Richtig     |
-| 1.5  | Programm fast zuende      | enter   |  Sie haben ... Versuche gebraucht     |
-| 1.6  |              |        |                    |
-| 1.7  |              |        |                    |
+| 2.1  | eingabe Zahl |  3      |  falsch mehr      |
+| 3.1  | eingabe höhrere Zahl| 50 |  falsch weniger     |
+| 4.1  | eingabe kleinere Zahl | 43      |  Richtig     |
+| 5.1  | Programm fast zuende      | enter   |  Sie haben ... Versuche gebraucht     |
+| 6.1  |              |        |                    |
+| 7.1  |              |        |                    |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -71,7 +71,7 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 1.9   | ich       | Computer generiert                       |   45 Minuten  |
+| 1    | 1.9   | ich       | Computer generiert Die Frage und mann kann eingeben|   45 Minuten|
 | 2.   | 1.9   | ich       |  Computer bestimmt eine Zahl             |   45 Minuten  |
 | 3    | 1.9   | ich       | Eine Eingabe                             |   45 Minuten  |
 | 4    | 1.9   | ich       | Möglichkeit raten                        |   45 Minuten  |
@@ -124,8 +124,11 @@ Ich habe mich entschieden, dass ich zum Beispiel einen farbigen Enterbutton einf
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
-| ...  |       |          |        |
-
+| 2.1  |       |          |        |
+|      |
+|      |
+|
+|
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
