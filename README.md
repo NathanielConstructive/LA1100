@@ -13,19 +13,41 @@ In meinem Projekt beziehungsweise in meinem Programm habe ich gelernt wie man zu
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
+Ich habe gelernt wie man den Benutzer fragt ob er noch eine Runde spielen möchte.
+
+
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
 
 ''' csharp
-Code.WriteLine
+
+char eingabe;
+
+Console.WriteLine("Geben Sie j oder J ein um das Programm neuzustarten oder schliesse es mit n oder N");
+eingabe = Convert.ToChar(Console.ReadLine());
+
+// Es wird gefragt ob man das Programm wiederholen möchte oder nicht. 
+  
+if (eingabe == 'J' || eingabe == 'j')
+{
+    goto start;
+}
+
+// Entweder Ja oder Nein je nach dem ob man spielen möchte oder nicht.
+
+if (eingabe == 'N' || eingabe == 'n')
+{
+    Environment.Exit(0);
+
+}
 
 
 '''
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+✍️ In meinem Text wird gezeigt was ich gelernt habe
+    In meinem Code Fetzen wird spezifisch gezeigt was ich programmiert habe.
+    In       
 
 # Reflexion zum Arbeitsprozess
 
