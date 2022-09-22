@@ -42,7 +42,7 @@ if (eingabe == 'N' || eingabe == 'n')
 }
 ```
 ![image](https://user-images.githubusercontent.com/111046193/191688671-9eb649c2-4958-45e0-855c-f4afb9e8abf5.png)
-
+| *Dieses Bild zeigt meinen eigenen Code auf.* |
 
 ## Verifikation
 
