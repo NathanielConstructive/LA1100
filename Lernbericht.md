@@ -15,8 +15,6 @@ In meinem Projekt beziehungsweise in meinem Programm habe ich gelernt wie man zu
 Ich habe gelernt wie man den Benutzer fragt ob er noch eine Runde spielen möchte.
 
 
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-
 
 ```Csharp
 
