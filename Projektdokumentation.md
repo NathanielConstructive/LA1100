@@ -36,7 +36,7 @@
 |  6   | kann            | KAF  | Als Spieler möchte ich dass die falsch eingegebenen Zahlen vermieden werden, damit die Website richtig funktioniert|
 |      |                 |      |                                     |
 |  7   | kann            | QAF  |Als Spieler möchte ich neue Features damit das Programm|
-|      |                 |      |spass macht.                                           |
+|      |                 |      |spass macht. Zum Beispiel fabrige Wörter.       |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -50,7 +50,7 @@
 | 3.1  | eingabe höhrere Zahl| 50 |  falsch weniger     |
 | 4.1  | eingabe kleinere Zahl | 43      |  Richtig     |
 | 5.1  | Programm fast zuende      | enter   |  Sie haben ... Versuche gebraucht     |
-| 6.1  |  Eingabe Buchstabe |    g    |                    |
+| 6.1  |  Eingabe Buchstabe |    g    | Erneut fragen           |
 | 7.1  |              |        |                    |
 
 
