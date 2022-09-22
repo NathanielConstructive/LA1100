@@ -112,4 +112,4 @@ Mein Fazit ist, dass mein Programm so rausgekommen ist wie ich es mir erhofft ha
 
 ## 6 Auswerten
 
-
+https://github.com/NathanielConstructive/LA1100/blob/main/Lernbericht.md
