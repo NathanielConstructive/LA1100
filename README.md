@@ -41,6 +41,8 @@ if (eingabe == 'N' || eingabe == 'n')
 
 }
 ```
+![image](https://user-images.githubusercontent.com/111046193/191688671-9eb649c2-4958-45e0-855c-f4afb9e8abf5.png)
+
 
 ## Verifikation
 
@@ -48,7 +50,9 @@ if (eingabe == 'N' || eingabe == 'n')
    
    2. In meinem Code Fetzen wird spezifisch gezeigt was ich programmiert habe.
          
-
+   3. Das Bild zeigt nochmals auf wie mein Code in meinem Programm geschrieben wurde.
+   
+   
 # Reflexion zum Arbeitsprozess
 
 👍 Ich habe die Mindestanforderungen in meinem Code sehr schnell programmieren können.
