@@ -41,13 +41,13 @@ if (eingabe == 'N' || eingabe == 'n')
 
 }
 
-
 '''
+
 ## Verifikation
 
-✍️ In meinem Text wird gezeigt was ich gelernt habe
-    In meinem Code Fetzen wird spezifisch gezeigt was ich programmiert habe.
-    In       
+✍️1. In meinem Text wird gezeigt was ich gelernt habe
+   2. In meinem Code Fetzen wird spezifisch gezeigt was ich programmiert habe.
+         
 
 # Reflexion zum Arbeitsprozess
 
