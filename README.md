@@ -45,6 +45,7 @@ if (eingabe == 'N' || eingabe == 'n')
 ## Verifikation
 
 ✍️1. In meinem Text wird gezeigt was ich gelernt habe
+   
    2. In meinem Code Fetzen wird spezifisch gezeigt was ich programmiert habe.
          
 
