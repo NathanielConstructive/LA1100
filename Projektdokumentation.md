@@ -123,20 +123,19 @@ Ich habe mich entschieden, dass ich zum Beispiel einen farbigen Enterbutton einf
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| 2.1  |       |          |        |
-|      |
-|      |
-|
-|
+| 1.1  | 22.09 | funktioniert | Mirhan Özden |
+| 2.1  | 22.09 | funktioniert | Mirhan Özden |
+| 3.1  | 22.09 | funktioniert | Mirhan Özden |
+| 4.1  | 22.09 | funktioniert | Mirhan Özden |
+| 5.1  | 22.09 | funktioniert | Mirhan Özden |
+| 6.1  | 22.09 | funktioniert | Mirhan Özden |
+| 7.1  | 22.09 | funktioniert | Mirhan Özden |
+
+       
+
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
