@@ -19,7 +19,7 @@ Ich habe gelernt wie man den Benutzer fragt ob er noch eine Runde spielen möcht
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 
 
-''' csharp
+```Csharp
 
 char eingabe;
 
@@ -40,8 +40,7 @@ if (eingabe == 'N' || eingabe == 'n')
     Environment.Exit(0);
 
 }
-
-'''
+```
 
 ## Verifikation
 
