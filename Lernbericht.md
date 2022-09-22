@@ -46,22 +46,23 @@ if (eingabe == 'N' || eingabe == 'n')
 
 ## Verifikation
 
-✍️1. In meinem Text wird gezeigt was ich gelernt habe
+✍️
+  Text:        1. In meinem Text wird gezeigt was ich gelernt habe
    
-   2. In meinem Code Fetzen wird spezifisch gezeigt was ich programmiert habe.
+  Code:        2. In meinem Code Fetzen wird spezifisch gezeigt was ich programmiert habe.
          
-   3. Das Bild zeigt nochmals auf wie mein Code in meinem Programm geschrieben wurde.
+  Bild:        3. Das Bild zeigt nochmals auf wie mein Code in meinem Programm geschrieben wurde.
    
    
 # Reflexion zum Arbeitsprozess
 
 ***Was lief gut?***
 
-👍 Ich habe die Mindestanforderungen in meinem Code sehr schnell programmieren können.
+👍 -Ich habe die Mindestanforderungen in meinem Code sehr schnell programmieren können.
 
 ***Was lief schlecht?***
 
-👎 Was nicht so gut lief, war dass ich oft unmotiviert und verplant war, das heisst ich wusste nicht was ich zu welcher Zeit machen sollte.
+👎 -Was nicht so gut lief, war dass ich oft unmotiviert und verplant war, das heisst ich wusste nicht was ich zu welcher Zeit machen sollte.
 
 **VBV**:
 Ein Verbesserungsvorschlag wäre, dass ich mir die Zeiten besser einteilen lasse. Wegen der Unmotivation kann man leider nichts machen.
