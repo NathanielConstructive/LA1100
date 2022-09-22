@@ -6,9 +6,9 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|       | 0.0.1   |                                                              |
+| 1.09/8.09| 2.0.0     |  Ich habe mein Programm fertig gecoded                  |
+| 22.09.2022| 3.0.0   | Ich arbeite am Punkt 5 weiter.                           |
 
 ## 1 Informieren
 
@@ -20,21 +20,22 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 0    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+|  0   |                 |      |Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️|
 |      |                 |      |                                    |
-| 1    |  muss           | AF   |Als spieler möchte ich dass der Computer eine|
+|  1   | muss            | AF   |Als spieler möchte ich dass der Computer eine|
 |      |                 |      |   Zahl zwischen 1 und 100 speichert, damit Ich raten kann.  |
-| 2    |  muss           | AF   |Als Spieler möchte ich dass ich raten kann, damit ich überhaupt spielen kann.|
+|  2   | muss            | AF   |Als Spieler möchte ich dass ich raten kann, damit ich überhaupt spielen kann.|
 |      |                 |      |
-| 3    |   muss          | QAF  |Als Spieler möchte ich dass mir gezeigt wird ob|
+|  3   | muss            | QAF  |Als Spieler möchte ich dass mir gezeigt wird ob|
 |      |                 |      |   ich zu viel oder zuwenig geraten habe, um zu wissen in welche Richtung ich raten soll.|
 |      |                 |      |
 |  4   | muss            | AF   | Als Spieler möchte ich dass mir gesagt wird ob|
 |      |                 |      |  ich richtig liege, damit ich sicher bin dass ich fertig bin.  |
-|  5   |     kann        | QAF  |Als Spieler möchte ich dass mir gesagt wird viele Versuche ich brauchte, um mein Glück zu kennen|                 
+|  5   | kann            | QAF  |Als Spieler möchte ich dass mir gesagt wird viele Versuche ich brauchte, um mein Glück zu kennen|                 
 |      |                 |      |
-|  6   |      kann       | KAF  | Als Spieler möchte ich dass die falsch eingegebenen Zahlen vermieden werden, damit die Website richtig funktioniert|
-|  7   |     kann        | QAF  |Als Spieler möchte ich neue Features damit das Programm|
+|  6   | kann            | KAF  | Als Spieler möchte ich dass die falsch eingegebenen Zahlen vermieden werden, damit die Website richtig funktioniert|
+|      |                 |      |                                     |
+|  7   | kann            | QAF  |Als Spieler möchte ich neue Features damit das Programm|
 |      |                 |      |spass macht.                                           |
 
 
@@ -49,7 +50,7 @@
 | 3.1  | eingabe höhrere Zahl| 50 |  falsch weniger     |
 | 4.1  | eingabe kleinere Zahl | 43      |  Richtig     |
 | 5.1  | Programm fast zuende      | enter   |  Sie haben ... Versuche gebraucht     |
-| 6.1  |              |        |                    |
+| 6.1  |  Eingabe Buchstabe |    g    |                    |
 | 7.1  |              |        |                    |
 
 
