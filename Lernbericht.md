@@ -57,12 +57,12 @@ if (eingabe == 'N' || eingabe == 'n')
 # Reflexion zum Arbeitsprozess
 
 ***Was lief gut?***
-
-👍 -Ich habe die Mindestanforderungen in meinem Code sehr schnell programmieren können.
+👍
+ - Ich habe die Mindestanforderungen in meinem Code sehr schnell programmieren können.
 
 ***Was lief schlecht?***
-
-👎 -Was nicht so gut lief, war dass ich oft unmotiviert und verplant war, das heisst ich wusste nicht was ich zu welcher Zeit machen sollte.
+👎
+ - Was nicht so gut lief, war dass ich oft unmotiviert und verplant war, das heisst ich wusste nicht was ich zu welcher Zeit machen sollte.
 
 **VBV**:
 Ein Verbesserungsvorschlag wäre, dass ich mir die Zeiten besser einteilen lasse. Wegen der Unmotivation kann man leider nichts machen.
