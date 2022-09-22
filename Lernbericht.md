@@ -11,7 +11,6 @@ In meinem Projekt beziehungsweise in meinem Programm habe ich gelernt wie man zu
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
 Ich habe gelernt wie man den Benutzer fragt ob er noch eine Runde spielen möchte.
 
